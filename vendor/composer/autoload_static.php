@@ -419,8 +419,8 @@ class ComposerStaticInit626b9e7ddd47fb7eff9aaa53cce0c9ad
         ),
         'League\\Uri\\' => 
         array (
-            0 => __DIR__ . '/..' . '/league/uri',
-            1 => __DIR__ . '/..' . '/league/uri-interfaces',
+            0 => __DIR__ . '/..' . '/league/uri-interfaces',
+            1 => __DIR__ . '/..' . '/league/uri',
         ),
         'League\\OAuth2\\Server\\' => 
         array (
